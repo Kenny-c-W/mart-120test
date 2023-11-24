@@ -1,5 +1,11 @@
-<html>
+
     body{
-        background-color: drak green;
+        background-color: black;
+        image-rendering: car;
     }
-</html>
+    .linkClass{
+        font-family: cursive;
+        color: aqua;
+        font-weight: bold;
+    }
+
